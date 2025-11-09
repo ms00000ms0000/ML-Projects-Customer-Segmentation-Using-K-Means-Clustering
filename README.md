@@ -77,9 +77,9 @@ The **visual clusters** provide insights into high-spending customers and potent
 
 📦 ML-Projects-Customer-Segmentation-Using-K-Means-Clustering
 │
-├── Customer_Segmentation_KMeans.ipynb # Jupyter Notebook implementation
-├── Mall_Customers.csv # Dataset used for training and analysis
-└── README.md # Project documentation
+├── Customer_Segmentation_using_K_Means_Clustering.ipynb                       # Full code implementation
+├── CustomersSegmentation.csv                                                   # Dataset used for training and analysis
+└── README.md                                                                   # Project documentation
 
 ```
 
